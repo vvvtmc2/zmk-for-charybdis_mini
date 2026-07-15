@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: charybdis}
 layers:
   Base:
-  - '`'
+  - none
   - '1'
   - '2'
   - '3'
